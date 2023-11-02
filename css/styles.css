@@ -1,0 +1,80 @@
+body{
+	background-color: black;
+}
+aside{
+	color: white;
+}
+
+h1.mastername{
+	color: white;
+	text-align: center;
+	font-weight: bold;
+}
+
+img.profile{
+	display: block;
+	width: 70%;
+	margin: auto;
+	background-color: white;
+	border: 3px solid #cb82da;
+	border-radius: 20%;
+}
+
+a.fbpf{
+	color: white;
+}
+
+div.img{
+	text-align: center;
+}
+
+p{
+	color: white;
+}
+
+div{
+	color: white;
+}
+
+div.ico{
+	text-align: center;
+	margin: auto;
+}
+
+li.male{
+	color: #add8e6;
+}
+
+h2{
+	color: white;
+}
+
+audio.thunder{
+	color: #cb82da;
+	background-color: #cb82da;
+	width: 200px;
+}
+footer{
+}
+
+/* CSS code */
+.menu-bar {
+  list-style-type: none; /* Remove the bullets */
+  margin: 0; /* Remove the margins */
+  padding: 0; /* Remove the padding */
+}
+
+.menu-bar li {
+  display: inline-block; /* Make the list items horizontal */
+}
+
+.menu-bar a {
+  text-decoration: none; /* Remove the underline */
+  color: white; /* Set the text color */
+  background-color: blue; /* Set the background color */
+  padding: 10px; /* Add some padding */
+}
+
+.menu-bar a:hover {
+  background-color: green; /* Change the background color on hover */
+}
